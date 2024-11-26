@@ -1,0 +1,45 @@
+{
+  "api": {
+    "name": "CapacitorSettingsPlugin",
+    "slug": "capacitorsettingsplugin",
+    "docs": "",
+    "tags": [],
+    "methods": [
+      {
+        "name": "locationAccuracy",
+        "signature": "() => Promise<{ status: string; userSelection: string; message: string; }>",
+        "parameters": [],
+        "returns": "Promise<{ status: string; userSelection: string; message: string; }>",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "locationaccuracy"
+      },
+      {
+        "name": "bluetoothEnable",
+        "signature": "() => Promise<{ status: string; userSelection: string; message: string; }>",
+        "parameters": [],
+        "returns": "Promise<{ status: string; userSelection: string; message: string; }>",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "bluetoothenable"
+      },
+      {
+        "name": "setBatteryMode",
+        "signature": "() => Promise<{ status: string; userSelection: string; message: string; }>",
+        "parameters": [],
+        "returns": "Promise<{ status: string; userSelection: string; message: string; }>",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "setbatterymode"
+      }
+    ],
+    "properties": []
+  },
+  "interfaces": [],
+  "enums": [],
+  "typeAliases": [],
+  "pluginConfigs": []
+}
