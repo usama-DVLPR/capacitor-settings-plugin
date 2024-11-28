@@ -1,6 +1,7 @@
 # node files
 node_modules
 android/
+ios/
 src/
 .prettierignore
 CapacitorSettings.podspec
